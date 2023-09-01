@@ -1,1 +1,1 @@
-local dayOfTheRope = false
+local dayOfTheRope = true
